@@ -1,0 +1,256 @@
+{
+  "result":"success",
+  "message":"ok",
+  "data": {
+    "question_boxs": [
+      {
+        "id": "Q_20312094696368-1",
+        "subjectId": 203,
+        "knowledgePoints": null,
+        "knowledgePointsNew": [
+          {
+            "id": "KP_20300068545604",
+            "tagId": 0,
+            "main": 1,
+            "featureIds": []
+          }
+        ],
+        "testMethods": [],
+        "solutionMethods": [],
+        "resourceIds": null,
+        "resourceIndex": 0,
+        "listenUrl": null,
+        "listenName": null,
+        "listenSeconds": 0,
+        "exploreSeconds": 0,
+        "answersSeconds": 0,
+        "paperIds": [
+          "P_20300162123472-1"
+        ],
+        "books": null,
+        "booksNew": null,
+        "contentTypeId": 2031021,
+        "contentType2Id": 2030060,
+        "difficultyInt": 3,
+        "description": "听对话，根据所听内容口头回答问题。听对话前，你有5秒钟时间阅读问题。听到录音提示音后，请你在15秒钟内口头回答问题并完成录音。每段对话你将听两遍。",
+        "notFitMobile": 0,
+        "seconds": 84,
+        "complex": 0,
+        "singleBook": null,
+        "nid": null,
+        "lastEditorId": null,
+        "finalAuditorId": "5a0540952ed9b642e75476ae",
+        "roughAuditorIds": null,
+        "content": {
+          "content": "",
+          "contentDesc": "",
+          "analysis": "",
+          "subContents": [
+            {
+              "content": "What's the matter with Anna?",
+              "answers": [],
+              "subContentTypeId": 18,
+              "analysis": "",
+              "optionType": "word",
+              "options": [],
+              "hideOptionNumber": 0,
+              "listenUrl": "",
+              "listenName": "",
+              "listenSeconds": 0,
+              "exploreSeconds": 0,
+              "answersSeconds": 0,
+              "oralDict": {
+                "seconds": 15,
+                "variables": [
+                  "<a>=Anna| She",
+                  "<b>=has| has got"
+                ],
+                "keywords": [],
+                "options": null,
+                "voiceText": null,
+                "sentencePatterns": [
+                  "Has a bad headache.| <a> <b> a bad headache."
+                ],
+                "picUrl": null,
+                "picName": null,
+                "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+                "endListenUrl": "",
+                "scorePercentage": 1,
+                "readySeconds": 5,
+                "listenFile": {
+                  "fileId": "5a633b4db1e48a3c0d97e6fe",
+                  "url": "http://cdn.17zuoye.com/fs-resource/5a633b4db1e48a3c0d97e6fe.sy3",
+                  "filename": "30.mp3",
+                  "seconds": 44
+                },
+                "contentDesc": "M: What's the matter, Anna?<p> W: I have a bad headache. I didn't sleep well last night. I didn't go to bed until two o'clock this morning.<br> M: Why did you stay up so late?<br> W: I had to finish the report. I have to give it to our teacher this morning.</p>",
+                "answers": [
+                  {
+                    "answer": "<p>Has a bad headache.</p><p>Anna| She has| has got a bad headache.</p>",
+                    "listenFile": {
+                      "fileId": "",
+                      "url": "",
+                      "filename": "",
+                      "seconds": null
+                    }
+                  }
+                ],
+                "voiceTextsNew": null,
+                "jsgf": "{\"DisplayText\": \"Has a bad headache | <a> <b> a bad headache\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Has a bad headache | <a> <b> a bad headache)\\\"</s>\\\";\\n<a>=(Anna| She);\\n<b>=(has| has got);\", \"GrammarWeight\": \"\", \"Version\": 1}",
+                "videoUrl": null,
+                "videoCoverUrl": null,
+                "highlightPos": null,
+                "sceneDescription": null,
+                "sceneName": null
+              },
+              "submitWays": [
+                3
+              ],
+              "tags": null,
+              "analysisList": [
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000029772",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000030691",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000031387",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000032025",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000033573",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000034806",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000035129",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000036762",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000045893",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000046042",
+                  "text": ""
+                },
+                {
+                  "choiceIds": [],
+                  "analysisTypeId": "AT_20300000047944",
+                  "text": ""
+                }
+              ],
+              "pictureUrl": "",
+              "extras": [],
+              "knowledgePointsList": [],
+              "answerList": [],
+              "tagsDesc": []
+            }
+          ]
+        },
+        "docId": "Q_20312094696368",
+        "version": 1,
+        "wordId": null,
+        "pictureUrl": null,
+        "tagId": 20303236,
+        "tagCode": "LkQLDAQ",
+        "createdAt": "2018-01-20T20:52:53.056+08:00",
+        "deletedAt": null,
+        "olCreatedAt": "2018-01-21T21:25:24.175+08:00",
+        "olUpdatedAt": "2018-03-21T21:30:14.777+08:00",
+        "sentenceIds": null,
+        "sentenceContents": null,
+        "broken": false,
+        "practiceTypeIds": null,
+        "categoryId": 0,
+        "fromId": 8,
+        "paragraph": null,
+        "articleName": null,
+        "descriptionFile": {
+          "fileId": "5a632257b1e48a741c3c351a",
+          "url": "http://cdn.17zuoye.com/fs-resource/5a632257b1e48a741c3c351a.sy3",
+          "filename": "1.mp3",
+          "seconds": 20
+        },
+        "analysisSeconds": 0,
+        "readySeconds": 0,
+        "wikiType": null,
+        "others": null,
+        "skillIds": null,
+        "abilities": null,
+        "weighted": null,
+        "additions": null,
+        "questionId": null,
+        "bookCatalogIds": null,
+        "previousId": null,
+        "variantIds": null,
+        "errorFactorIds": null,
+        "tags": [],
+        "deletedTrue": false,
+        "knowledgePointsB": [],
+        "submitWays": [
+          [
+            3
+          ]
+        ],
+        "subjective": true,
+        "answers": [
+          []
+        ],
+        "majorContentType": {
+          "nid": 2031021,
+          "name": "口语题"
+        },
+        "contentType": {
+          "nid": 2030060,
+          "name": "口语主观题"
+        }
+      }
+    ],
+    "knowledge_points_list": [
+      {
+        "id": "KP_20300068545604",
+        "name": "疾病 (Illnesses)"
+      }
+    ],
+    "content_types": [
+      {
+        "nid": 2030060,
+        "name": "口语主观题"
+      }
+    ],
+    "words": [],
+    "category": {
+      "content_type": "bigdata_package",
+      "bk_id": "BK_20300003535043",
+      "bkc_id": "BKC_20300076044009",
+      "unit_id": "BKC_20300076044009",
+      "name": "口语",
+      "algo_type": "REVIEW_ORAL"
+    }
+  }
+}

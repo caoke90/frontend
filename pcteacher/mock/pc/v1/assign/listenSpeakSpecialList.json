@@ -1,0 +1,137 @@
+{
+  "result": "success",
+  "message": "ok",
+  "data":[
+                  {
+                      "name":"听力",
+                        "list":[
+                              {
+                               "key": 203000001,
+                                "value":"听句子选答语言",
+                                "keyType":1,
+                                "cartSelected": 10,
+                                "action": {
+                                    "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                                    "params": {
+                                        "region_id":110000,
+                                        "grade_id":8,
+                                        "subtype_id":203000001,
+                                        "subtype_id_type":1,
+                                        "list_type":0
+                                    }
+                                }
+                              },{
+                                "key": 203000002,
+                                "value":"听句子选答语言",
+                                "keyType":1,
+                                "cartSelected": 10,
+                                "action": {
+                                        "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                                        "params": {
+                                            "region_id":110000,
+                                            "grade_id":8,
+                                            "subtype_id":203000002,
+                                            "subtype_id_type":1,
+                                            "list_type":1
+                                        }
+                                    }
+                              },{
+                              "key": 203000003,
+                              "value":"听句子选答语言",
+                              "keyType":1,
+                              "cartSelected": 10,
+                              "action": {
+                                    "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                                      "params": {
+                                          "region_id":110000,
+                                          "grade_id":8,
+                                          "subtype_id":203000003,
+                                          "subtype_id_type":1,
+                                          "list_type":0
+                                      }
+                                  }
+                            }
+                        ]
+                  },{
+                      "name":"口语",
+                      "list":[
+                            {
+                              "key": 203000004,
+                              "value":"听句子选答语言",
+                              "keyType":1,
+                              "cartSelected": 10,
+                              "action": {
+                                "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                                "params": {
+                                  "region_id":110000,
+                                  "grade_id":8,
+                                  "subtype_id":203000004,
+                                  "subtype_id_type":1,
+                                    "list_type":0
+                                }
+                              }
+                            },{
+                              "key": 203000005,
+                              "value":"听句子选答语言",
+                              "keyType":1,
+                              "cartSelected": 10,
+                              "action": {
+                                "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                                "params": {
+                                  "region_id":110000,
+                                  "grade_id":8,
+                                  "subtype_id":203000005,
+                                  "subtype_id_type":1,
+                                  "list_type":1
+                                }
+                              }
+                            },{
+                              "key": 203000006,
+                              "value":"听句子选答语言",
+                              "keyType":1,
+                              "cartSelected": 10,
+                              "action": {
+                                "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                                "params": {
+                                  "region_id":110000,
+                                  "grade_id":8,
+                                  "subtype_id":203000006,
+                                  "subtype_id_type":1,
+                                  "list_type":0
+                                }
+                              }
+                            },{
+                          "key": 203000007,
+                          "value":"听句子选答语言",
+                          "keyType":1,
+                          "cartSelected": 10,
+                          "action": {
+                            "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                            "params": {
+                              "region_id":110000,
+                              "grade_id":8,
+                              "subtype_id":203000007,
+                              "subtype_id_type":1,
+                              "list_type":1
+                            }
+                          }
+                        },{
+                          "key": 203000008,
+                          "value":"听句子选答语言",
+                          "keyType":1,
+                          "cartSelected": 10,
+                          "action": {
+                            "h5url": "http://zystatic.test.17zuoye.net/mteacher/lssdetail.html",
+                            "params": {
+                              "region_id":110000,
+                              "grade_id":8,
+                              "subtype_id":203000001,
+                              "subtype_id_type":1,
+                              "list_type":0
+                            }
+                          }
+                        }
+                      ]
+                  }
+  ]
+}

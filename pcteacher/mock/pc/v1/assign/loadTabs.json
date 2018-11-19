@@ -1,0 +1,32 @@
+{
+  "result": "success",
+  "message": "ok",
+  "data": {
+    "tabs": [{
+      "name": "\u6559\u6750\u540c\u6b65",
+      "key": "sync",
+      "selected": true,
+      "tip": ""
+    }, {
+      "name": "\u542c\u8bf4\u4e13\u533a",
+      "key": "junior_review",
+      "selected": false,
+      "tip": ""
+    }, {
+      "name": "\u590d\u4e60\u4e13\u533a",
+      "key": "entrance_exam_review",
+      "selected": false,
+      "tip": ""
+    }, {
+      "name": "\u6559\u8f85\u9009\u9898",
+      "key": "workbook",
+      "selected": false,
+      "tip": ""
+    }, {
+      "name": "\u7ecf\u5178\u8bfb\u7269",
+      "key": "classic",
+      "selected": false,
+      "tip": ""
+    }]
+  }
+}

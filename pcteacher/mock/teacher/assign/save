@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": {
+        "name": "英语练习 08-04",
+        "clazz_name": "八年级1班、八年级7班、八年级8班、八年级英语6班、八年级英语8班、九年级1班、九年级2班、九年级3班",
+        "download_url": "/teacher/homework/downloadPaper?homework_id=5b654c814d1b9d338e39c12a",
+        "homework_tags": [
+            "junior_review"
+        ]
+    },
+    "message": "",
+    "error_code": 0
+}

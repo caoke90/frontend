@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+// 基本颜色
+$light-grey:                              #F4F4F4;
+$grey:                                    #E6E6E6;
+$blue:                                    #5292e2;
+$green:                                   #6DC898;
+$black:                                   #333333;
+$dark-green:                              #65BB94;
+$active-bg-color:                         #F9FEFB;
+$dark-grey:                               #cacaca;
+$dark:                                     #444444;
+
+// 基础样式
+$border:                                 0.5px solid;
+$radius:                                 4px;
+$big-radius:                             8px;
+$bg-color:                               $light-grey;
+
+// 组合型样式
+$grey-border:                            $border $grey;
+
+// 设备宽度
+$width:                                  100%;
+
+// 画一条线
+@mixin line($width, $height, $color) {
+    width: $width;
+    background: $color;
+    @if $height == 0.5 {
+        height: 1px;
+        transform: scaleY($height/2);
+    } @else {
+        height: $height;
+    }
+
+}

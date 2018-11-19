@@ -1,0 +1,17 @@
+{
+  "name": "17zy_jxt_client_plugin",
+  "version": "2.5.0",
+  "description": "h5跟客户端交互方法",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "客户端",
+    "h5"
+  ],
+  "author": "rambo <luwei.li@17zuoye.com>",
+  "license": "ISC",
+  "_from": "17zy_jxt_client_plugin@2.5.0",
+  "_resolved": "http://npm.17zuoye.net/17zy_jxt_client_plugin/-/17zy_jxt_client_plugin-2.5.0.tgz"
+}

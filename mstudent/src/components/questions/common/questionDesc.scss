@@ -1,0 +1,67 @@
+
+@import "../../../../../common/styles/common.scss";
+
+.question-desc {
+    background: #fff;
+    margin-bottom: 10px;
+    .desc-title {
+        position: relative;
+        height: 56px;
+        padding: 16px 15px;
+        box-sizing: border-box;
+        font-size: 15px;
+        .audio-btn {
+            cursor: pointer;
+        }
+        .horn {
+            position: relative;
+            display: inline-block;
+            vertical-align: middle;
+            width: 22px; height: 16px;
+            background: url("../../../../../images/horn-grey.png") no-repeat;
+            background-size: contain;
+        }
+        .horn-active {
+            position: relative;
+            display: inline-block;
+            vertical-align: middle;
+            width: 22px; height: 16px;
+            background: url("../../../../../images/horn-high.gif") no-repeat;
+            background-size: contain;
+        }
+        .active {
+            color: $dark-green;
+        }
+        span {
+            display: inline-block;
+            vertical-align: middle;
+            color: #444;
+            margin-left: 8px;
+        }
+    }
+    .content {
+        color: #AAA;
+        font-size: 14px;
+        line-height: 21px;
+        padding: 0 15px 18px;
+        font-family: PingFangSC-Regular;
+    }
+    .btn {
+        float: right;
+        height: 32px;
+        width: 32px;
+        margin-top: -3px;
+        cursor: pointer;
+        // margin: 6.5px 0;
+        display: inline-block;
+        background: url("../../../../../images/up.png") no-repeat center center;
+        background-size: 12.9px 7.4px;
+        transform: rotate(0deg);
+        transition: transform .4s ease-out;
+    }
+    .btn-up {
+        transform: rotate(-180deg);
+        transition: transform .4s ease-out;
+    }
+
+}

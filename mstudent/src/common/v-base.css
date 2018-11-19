@@ -1,0 +1,9 @@
+
+
+html {
+  font-family: PingFang-SC-Regular, Helvetica, sans-serif;
+}
+body, html {
+  margin: 0;
+  height: 100%;
+}

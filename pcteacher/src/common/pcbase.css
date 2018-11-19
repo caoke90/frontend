@@ -1,0 +1,32 @@
+/*基础样式库，包含字体、border-box等兼容问题*/
+@charset "UTF-8";
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+html, body{ width: 100%; height: 100%; font:14px/100% arial, "微软雅黑", "Microsoft YaHei";}
+html, body, ul, ol, li, h1, h2, h3, h4, h5, h6, p ,dl, dt, dd{ margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6{ line-height: 100%;}
+body { background-color: #eff2f6; color: #383a4c;}
+ul, ol, li { list-style: none; }
+input, select, textarea{ outline:none; resize:none; font:12px/100% "微软雅黑", "Microsoft YaHei";}
+p{ line-height: 22px;}
+a { outline: none; cursor:pointer; text-decoration: none; color: #383a4c;}
+a:hover { color: #189cfb;}
+img{ vertical-align:middle; border:none;}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.clearfix::before, .clearfix::after {
+  display: table;
+  content: "";
+}
+
+.clearfix::after {
+  clear: both
+}

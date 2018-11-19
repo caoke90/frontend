@@ -1,0 +1,111 @@
+
+#venus-app{
+  * { -webkit-tap-highlight-color: transparent; outline: none;
+    font-family:TrebuchetMS,Rotobo,"Microsoft YaHei",sans-serif;
+    -webkit-text-size-adjust: none;}
+  form, p, h1, h2, h3, h4, h5, h6, dl, ul, ol, li, dt, dd, select { margin: 0; padding: 0; }
+  h1,h2,h3,h4,h5,h6{font-weight: normal;}
+  ul, ol, li { list-style-type: none; }
+  em, i { font-style: normal; }
+  input, button, textarea { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+  a { text-decoration: none; }
+  a img { border: 0 none; }
+  img{ max-width: 100%;}
+  input:focus::-webkit-input-placeholder { color: rgba(0,0,0,0); }
+  input::-webkit-input-placeholder { color: #999; }
+  input:focus::-moz-placeholder { color: rgba(0,0,0,0); }
+  input::-moz-placeholder { color: #999; }
+  input:focus:-ms-input-placeholder { color: rgba(0,0,0,0); }
+  input:-ms-input-placeholder { color: #999; }
+  input[type="button"],input[type="text"],input[type="password"],input[type="submit"],input[type="search"],input[type="email"],input[type="number"],input[type="phone"],button, textarea { -webkit-appearance: none; -moz-appearance: none; -webkit-border-image: none; border-image: none; -webkit-border-radius: 0; border-radius: 0;-webkit-box-sizing:border-box; box-sizing:border-box;}
+  .w100{width: 100%}
+  .h100{height: 100%;}
+  .dib{display: inline-block;}
+  .textc{text-align: center;}
+  .textr{text-align: right;}
+  .lh100{line-height: 100%;}
+  .fl{float: left;}
+  .fr{float: right}
+  .vat{vertical-align: top;}
+  .vam{vertical-align: middle;}
+  .mt10{margin-top: 10px;}
+  .mb10{margin-bottom: 10px;}
+  .clearfix:after { content: ""; display: block; height: 0; overflow: hidden; clear: both; visibility: hidden; }
+  .wpw{white-space: pre-wrap;}
+  .sfont{font-size: 12px !important;}
+  .smfont{font-size: 14px !important;}
+  .mfont{font-size: 16px !important;}
+  .bfont{font-size: 18px !important;}
+  .lfont{font-size: 20px !important;}
+  .sbfont{font-size: 24px !important;}
+  .slfont{font-size: 32px !important;}
+  /*ipad*/
+  @media only screen and (min-width:767px){
+    .sfont{font-size: 14px !important;}
+    .smfont{font-size: 18px !important;}
+    .mfont{font-size: 20px !important;}
+    .bfont{font-size: 22px !important;}
+    .lfont{font-size: 24px !important;}
+    .sbfont{font-size: 28px !important;}
+    .slfont{font-size: 36px !important;}
+  }
+
+  /*ipad pro*/
+  @media only screen and (min-width:1023px){
+    .sfont{font-size: 16px !important;}
+    .smfont{font-size: 22px !important;}
+    .mfont{font-size: 24px !important;}
+    .bfont{font-size: 26px !important;}
+    .lfont{font-size: 30px !important;}
+    .sbfont{font-size: 36px !important;}
+    .slfont{font-size: 42px !important;}
+  }
+
+  /*iphone6plus iphone7plus*/
+  @media only screen and (max-width:414px){
+    .sfont{font-size: 13px !important;}
+    .smfont{font-size: 16px !important;}
+    .mfont{font-size: 18px !important;}
+    .bfont{font-size: 20px !important;}
+    .lfont{font-size: 22px !important;}
+    .sbfont{font-size: 26px !important;}
+    .slfont{font-size: 36px !important;}
+  }
+  /*iphone6 iphone7*/
+  @media only screen and (max-width:375px){
+    .sfont{font-size: 12px !important;}
+    .smfont{font-size: 14px !important;}
+    .mfont{font-size: 16px !important;}
+    .bfont{font-size: 18px !important;}
+    .lfont{font-size: 20px !important;}
+    .sbfont{font-size: 24px !important;}
+    .slfont{font-size: 32px !important;}
+  }
+  /*iphone5，小屏安卓*/
+  @media only screen and (max-width:360px){
+    .sfont{font-size: 12px !important;}
+    .smfont{font-size: 13px !important;}
+    .mfont{font-size: 14px !important;}
+    .bfont{font-size: 16px !important;}
+    .lfont{font-size: 18px !important;}
+    .sbfont{font-size: 20px !important;}
+    .slfont{font-size: 26px !important;}
+  }
+
+  .hidden{
+    visibility: hidden;
+  }
+  .visible{
+    visibility: visible;
+  }
+}
+
+@font-face {
+  font-family: SFUIDisplay-Regular;
+  src: url('../fonts/SFUIDisplay/SF-UI-Display-Regular.otf');
+}
+@font-face {
+  font-family: DIN-Regular;
+  src: url('../fonts/DIN/DIN-Regular.otf');
+}
+

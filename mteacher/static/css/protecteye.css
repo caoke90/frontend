@@ -1,0 +1,113 @@
+
+body, html {
+    height: 100%;
+    background-color: white;
+}
+
+
+body, dd, dl, dt, form, h1, h2, h3, h4, h5, h6, html, li, ol, p, select, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.titlebg {
+    background-color: #F2F5F6;
+    height: .5rem;
+}
+
+.protectEyePart {
+    height: 13.25rem;
+    padding: 1.25rem .75rem .5rem .75rem;
+    border-bottom: .025rem solid #f1f3f4;
+}
+
+.protectEyePartPic5 {
+    background: url(../image/eye5.png) no-repeat center 100%;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+}
+.protectEyePartPic1 {
+    background: url(../image/eye1.png) no-repeat center 100%;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+}
+.protectEyePartPic2 {
+    background: url(../image/eye2.png) no-repeat center 100%;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+}
+.protectEyePartPic3 {
+    background: url(../image/eye3.png) no-repeat center 100%;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+}
+
+.protectEyePartPic4 {
+    background: url(../image/eye4.png) no-repeat center 100%;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+}
+
+.protectEyePartPic {
+    width: 16.5rem;
+    height: 9.275rem;
+}
+
+.protectEyePartFont {
+    font-family: STYuanti-TC-Regular;
+    font-size: .75rem;
+    color: #4b4b4b;
+    letter-spacing: 0;
+    line-height: 1.125rem;
+    margin-top: .5rem;
+}
+
+.protectEyePartLast {
+    height: 15.425rem;
+    padding: 1.25rem .75rem .5rem .75rem;
+    border-bottom: .025rem solid #f1f3f4;
+}
+
+.recordBottom {
+    position: fixed;
+    bottom: .75rem;
+    background-color: #2eaaf7;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    -moz-border-radius: 2.5rem;
+    border-radius: 2.5rem;
+    width: 16rem;
+    height: 2.25rem;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+.networkbtn {
+    text-align: center;
+    background-color: #2eaaf7;
+    border: none;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -moz-border-radius: 2.5rem;
+    border-radius: 2.5rem;
+    width: 16rem;
+    height: 2.25rem;
+}
+
+.btnFont {
+    font-family: STYuanti-TC-Bold;
+    font-size: .9rem;
+    color: #fff;
+    letter-spacing: 0;
+    font-weight: 700;
+}

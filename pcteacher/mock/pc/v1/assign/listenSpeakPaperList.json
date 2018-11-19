@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "message": "ok",
+  "data": {
+    "sameRegion":false,
+    "paperIds": [
+      {
+        "id":"P_20300416548592",
+        "name":"某某套卷",
+        "desc": [
+          "听力套卷",
+          "真题"
+        ],
+        "action": {
+          "h5url": "http://zystatic.test.17zuoye.net/mteacher/lspdetail.html",
+          "params": {
+            "paper_id":""
+          }
+        }
+      }
+    ],
+    "total_number": 25,
+    "page_info": {
+      "total_page": 3,
+      "now_page": 1,
+      "page_size": 10
+    }
+  }
+}

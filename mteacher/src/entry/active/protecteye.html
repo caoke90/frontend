@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>养成护眼好习惯</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width" name="viewport">
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/750rem.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/protecteye.css" />
+    <script src=""></script>
+</head>
+<body>
+    <div style="height: 100%;">
+        <div>
+            <div class="titlebg"></div>
+            <div class="protectEyePart" style="height: 12rem;">
+                <div id="playVideo" class="protectEyePartPic protectEyePartPic5"></div> 
+                <p class="protectEyePartFont">做一会儿眼保健操吧！</p>
+            </div>
+            <div class="protectEyePart">
+                <div class="protectEyePartPic protectEyePartPic1"></div>
+                <p class="protectEyePartFont">使用电子产品时，眼睛和屏幕的距离建议在40cm左右。</p>
+            </div>
+            <div class="protectEyePart">
+                <div class="protectEyePartPic protectEyePartPic2"></div>
+                <p class="protectEyePartFont">每使用电子产品或阅读书本15-20分钟，休息一会儿眼睛哦。</p>
+            </div>
+            <div class="protectEyePart">
+                <div class="protectEyePartPic protectEyePartPic3"></div>
+                <p class="protectEyePartFont">通过体育锻炼、远眺等活动，放松眼部肌肉，缓解视疲劳。</p>
+            </div>
+            <div class="protectEyePartLast">
+                <div class="protectEyePartPic protectEyePartPic4"></div>
+                <p class="protectEyePartFont">中学生最好能保证每天10小时睡眠。</p>
+            </div>
+            <div class="recordBottom" id="closePage">
+                <button class="networkbtn ">
+                    <a href="javascript:;" class="btnFont">明白了</a>
+                </button>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.onload = function () {
+            // 播放视频
+            document.querySelector('#playVideo').addEventListener('click', function(){
+                var params = {urlList: ['https://zyfile.17zuoye.cn/video/protectEyes.mp4']}
+                window.external && window.external.playerVideo(JSON.stringify(params))
+            }, false)
+            // 关闭当前页面
+             document.querySelector('#closePage').addEventListener('click', function(){
+                window.external && window.external.disMissView()
+             }, false)
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,208 @@
+/*m-main*/
+.m-main{ width: 1000px; margin: 0 auto;}
+
+.MathJax .math span:last-child {border-left-width:0 !important;}/*公式渲染竖线问题*/
+.w-hide{ display: none !important;}
+.w-hide-normal{ display: none;}
+.w-show{ display: block !important;}
+
+.w-fl-left{ float: left;}
+.w-fl-right{ float: right;}
+
+.w-clear{ clear: both; font: 0/0 ""; height: 1px; overflow: hidden; width: 100%;}
+.w-clear-after:after {content: ""; clear: both; height: 1px;display: block; }
+.w-blue {
+  color: #189cfb;
+}
+
+/*w-btn*/
+.w-btn{ background-color: #189cfb;border:1px solid #0979ca; color: #fff; display: inline-block; padding: 17px 0; text-decoration: none; width: 166px; text-align: center; font: 18px/1.125 "微软雅黑", "Microsoft YaHei", Arial; vertical-align: middle;border-radius: 2px;}.w-btn:hover{background-color: #52b4fb; color: #fff;}
+.w-btn:hover{background-color: #52b4fb;}
+.w-btn:active{background-color: #0092fa;}
+.w-btn-cyan,.w-btn-green {background-color: #1abc9c;border-color: #08977b}
+.w-btn-cyan:hover,.w-btn-green:hover {background-color: #1abc9c;}
+.w-btn-cyan:active,.w-btn-green:active {background-color: #00ab89}
+.w-btn-orange{ background-color: #fdad00;}
+.w-btn-orange:hover{ background-color: #ffbc2c;}
+.w-btn-orange:active{ background-color: #f0a400;}
+.w-btn-red{ background-color: #f86638; border-color: #d04c22;}
+.w-btn-red:hover{ background-color: #ff8260;}
+.w-btn-red:active{ background-color: #756251;}
+.w-btn-mBlue, .w-btn-mBlue:hover, .w-btn-mBlue:active{ background-color: #fff; color: #189cfb; border: 1px solid #09f;}
+.w-btn-mBlue:hover{ background-color: #f5fbff;}
+.w-btn-gray, .w-btn-gray:hover, .w-btn-gray:active{ background-color: #f3f3f3; color: #667284;}
+.w-btn-gray:hover{ color: #189cfb;}
+.w-btn-light, .w-btn-light:hover, .w-btn-light:active{ background-color: #e1f0fc; color: #2180c1; border-color:#abc1d3;}
+.w-btn-small { padding: 12px 0; width: 155px; font-size: 14px;}
+.w-btn-well { padding: 8px 0; width: 120px; font-size: 16px;}
+.w-btn-large { padding: 20px 0; width: 220px;}
+.w-btn-mini { padding: 4px 0; width: 100px; font-size: 14px;}
+.w-btn-block { display: block; width: 100%;}
+.w-btn-disabled, .w-btn-disabled:hover, .w-btn-disabled:active{ background-color: #b5b5b5  !important;; cursor: default; border-color: #7f8888 !important;}
+
+
+/*w-icon*/
+.w-icon {background: url(../img/teacher/w-icon.png) no-repeat 5000px 5000px; width: 19px; height: 19px; display: inline-block; vertical-align: middle; margin: 0 5px 0 0; overflow: hidden;}
+.w-icon-md { display: inline-block; vertical-align: middle; *line-height: 120%;}
+.w-icon-blue, a:hover .w-icon {background-image: url(../img/teacher/w-icon-blue.png);}
+.w-icon-white, a:hover .w-icon-white {background-image: url(../img/teacher/w-icon-white.png); }
+.w-icon-1 {background-position: 0 0;}
+.w-icon-2 {background-position: 0 -33px;}
+.w-icon-3 {background-position: 0 -68px;}
+.w-icon-4 {background-position: 0 -103px;}
+.w-icon-5 {background-position: 0 -137px;}
+.w-icon-6 {background-position: 0 -172px;}
+.w-icon-7 {background-position: 0 -208px;}
+.w-icon-8 {background-position: 0 -243px;}
+.w-icon-9 {background-position: 0 -278px;}
+.w-icon-10 {background-position: 0 -314px;}
+.w-icon-11 {background-position: 0 -349px;}
+.w-icon-12 {background-position: 0 -383px;}
+.w-icon-13 {background-position: 0 -417px;}
+.w-icon-14 {background-position: 0 -454px;}
+.w-icon-15 {background-position: 0 -487px;}
+.w-icon-16 {background-position: 0 -522px;}
+.w-icon-17 {background-position: 0 -552px;}
+.w-icon-18 {background-position: 0 -582px;}
+.w-icon-19 {background-position: -31px 0;}
+.w-icon-20 {background-position: -31px -34px;}
+.w-icon-21 {background-position: -29px -70px; width: 19px;}
+.w-icon-22 {background-position: -31px -102px; height: 20px;}
+.w-icon-23 {background-position: -31px -138px;}
+.w-icon-24 {background-position: -31px -173px;}
+.w-icon-24 {background-position: -31px -173px;}
+.w-icon-25 {background-position: -32px -206px; }
+.w-icon-26 {background-position: -31px -244px; }
+.w-icon-27 {background-position: -31px -279px; }
+.w-icon-28 {background-position: -31px -313px; }
+.w-icon-29 {background-position: -31px -350px; }
+.w-icon-30 {background-position: -29px -383px; }
+.w-icon-31 {background-position: -30px -417px; }
+.w-game-icon { width: 60px; height: 60px; overflow: hidden; display: inline-block;}
+.w-icon-32 { background: url(../img/teacher/less-red.png) no-repeat 0 0 !important;}
+.w-bean-location{ position: relative; }
+.w-bean-location .w-icon-34{ position: absolute; right: 3px; top: 0;}
+.w-icon-35{ background-position: -30px -455px; }
+.w-icon-2wicon{background: url(../img/teacher/teacherapp2wicon.png) no-repeat; width: 17px; height: 21px; display: inline-block; vertical-align: middle; overflow: hidden;margin-top:-2px;}
+.w-icon-2wicon:hover{background: url(../img/teacher/teacherapp2wicon.png) no-repeat; }
+/*t-btn*/
+.t-btn .w-btn-white{background-color: #e1f0fc;color:#2180c1;border:1px solid #abc1d3;}
+.btn_disable, .btn_disable:hover{ background-color: #ccc !important; cursor: default;}
+
+
+/*w-arrow*/
+.w-icon-arrow, .w-icon-public{ 
+  background: url(../img/teacher/w-arrow-v1.png) no-repeat -20px -8px; 
+}
+.w-icon-public{ width: 16px; height: 16px; display: inline-block; overflow: hidden; vertical-align: middle; margin: 0 5px 0 0;}
+.w-icon-arrow{width: 10px; height: 7px; margin: 0 0 0 12px; display: inline-block; overflow: hidden; vertical-align: middle;}
+.w-icon-arrow-TB{ background-position: -20px 0; height: 16px;}
+.w-icon-arrow-top{ background-position: -20px 0; }
+.w-icon-arrow-topBlue{ background-position: 0 0; }
+.w-icon-arrow-blue/*, a:hover .w-icon-arrow*/{ background-position: 0 -8px; }
+.w-icon-arrow-lRight{ background-position: 5px -42px; width: 20px; height: 20px; margin: 0;}
+a:hover .w-icon-arrow-lRight{ background-position: -34px -42px;}
+.w-icon-arrow-lBot, .w-icon-arrow-lTop, .w-icon-arrow-lTopB, .w-icon-arrow-lBotB{ width: 17px; height: 9px; margin: 5px 0 5px 5px;}
+.w-icon-arrow-lTop{ background-position: -15px -41px;}
+.w-icon-arrow-lBot{ background-position: -15px -53px;}
+.w-icon-arrow-lTopB, .w-onEvent .w-icon-arrow-lBot{ background-position: -55px -41px;}
+.w-icon-arrow-lBotB{ background-position: -55px -53px;}
+.w-icon-arrow-gRight, .w-icon-arrow-gLeft, .w-icon-arrow-bRight, .w-icon-arrow-bLeft{ width: 6px; height: 10px;}
+.w-icon-arrow-gLeft{ background-position: -23px -23px; }
+.w-icon-arrow-gRight{ background-position: -31px -23px;}
+.w-icon-arrow-bRight{ background-position: -8px -23px; }
+.w-icon-arrow-bLeft{ background-position: 0 -23px;}
+.w-icon-arrow-new{ background-position: 0 -195px; width: 28px; height: 17px;}
+.w-icon-arrow-white{ background-position: -96px 0; width: 17px; height: 17px;}
+.w-icon-arrow-fill{ background-position: -81px -42px; width: 19px; height: 20px;}
+.w-icon-redInfo{ background-position: 0 -85px; width: 18px; height: 18px; margin: 0; color: #fff; line-height: 18px; text-align: center;font-size: 12px;}
+.w-icon-redInfo.w-icon-plentyMessages{ background-position: -45px -85px;}
+.w-icon-greenInfo{ background-position: -25px -88px; width: 12px; height: 12px; margin: 0; line-height: 12px;}
+.w-icon-success{ background-position: 0 -113px; }
+.w-icon-error{ background-position: -29px -113px; }
+.w-form-misInfo{ display: inline-block; vertical-align: middle; line-height: 20px;}
+.w-form-misInfo .info{ color: #fa7252; font-size: 12px; font-weight: normal; display: inline-block; vertical-align: middle;}
+.w-form-info-success .info{ color: #bad55e; }
+.w-icon-authVip, .w-icon-authVip-dis, .w-icon-authAmb , .w-icon-authAmb-dis{ width: 20px; height: 20px; margin: 0;}
+.w-icon-authVip{ background-position: 0 -139px;}
+.w-icon-authVip-dis{ background-position: -29px -139px; opacity: 0.8; filter: alpha(opacity=80);}
+.w-icon-authAmb{ background-position: 0 -168px;}
+.w-icon-authAmb-dis{ background-position: -29px -168px; opacity: 0.8; filter: alpha(opacity=80);}
+.w-icon-switch{ background-position: -71px -86px; width: 17px; height: 17px; margin-right: 15px;}
+.w-icon-switchBlue{ background-position: -46px 0; width: 17px; height: 17px; margin-right: 15px;}
+.w-icon-faq{ background-position: -71px 0 ; width: 20px; height: 20px;}
+.w-icon-thItem{ background-position: -95px -84px ; width: 20px; height: 20px;}
+.w-icon-new{ background: url(../img/teacher/w-icon-new.png) no-repeat 0 0; width: 28px; height: 17px;}
+.w-icon-upgrade{ background: url(../img/teacher/w-icon-upgrade.png?1.0.1) no-repeat 0 0; width: 50px; height: 23px;}
+
+
+/*form - w-checkbox*/
+.w-checkbox, .w-radio, .w-hook{ background: url(../img/teacher/w-checkbox_new.png) no-repeat; width: 13px; height: 13px; overflow: hidden; display: inline-block; vertical-align: middle; cursor: pointer; *margin-right: 4px;}
+.w-checkbox{ background-position: -15px 0;}
+.w-checkbox-current, .active .w-checkbox, .w-checkbox-current .w-checkbox{ background-position: -15px -17px;  _margin-top: -1px;}
+.w-checkbox-btn{background-position: 1px -17px;}
+.w-checkbox-btn-default {background-position: 1px 0px;}
+.w-radio{ background-position: 0 0;}
+.w-radio-current, .w-radio-current .w-radio{ background-position: 0 -17px; _margin-top: -1px;}
+.w-hook{ background-position: 0 -34px;}
+.w-hook-current, .w-hook-current .w-hook{ background-position: -15px -34px;  _margin-top: -1px;}
+
+/*w-form-table*/
+.w-form-table { clear: both; padding: 40px 0;}
+.w-form-table dl{ clear: both;}
+.w-form-table dt{ width: 30%; float: left; text-align: right; padding: 5px 0 0; color: #333;}
+.w-form-table dd { margin-left: 32%; margin-bottom: 15px;}
+.w-form-table dd.center{ margin:0; text-align: center;}
+.w-form-table dd .w-form-text{ line-height: 25px; color: #666; font-size: 12px;}
+.w-form-table .form-btn {padding: 20px 0 0;}
+.w-form-table .form-btn .w-btn{ margin:0 18px; width: 120px;}
+/*w-border-list*/
+.w-border-list{ overflow: hidden; _zoom: 1; _display: inline; margin: 15px 0 15px 15px; }
+.w-border-list li{ float: left; border: 1px solid #dfdfdf; background-color: #fff; padding: 10px; width: 156px; text-align: center; cursor: pointer; margin: 0 2px 4px; position: relative; font-size: 14px;}
+.w-border-list li .b-select{ position: absolute; left: 3px; top: 1px; _top: 3px;}
+.w-border-list li .b-new{ position: absolute; left: 30px; top: 7px; _top: 10px; z-index: 999;}
+.w-border-list li .b-next{ position: absolute; right: 4px; top: 4px; display: none;}
+.w-border-list li .b-number{ display: inline;}
+.w-border-list li .b-text{ height: 33px; display: block; margin-right: 46px; line-height: 33px; }
+.w-border-list li .b-icon{position: absolute; top: -1px; right: -1px; display: block; z-index: 11;}
+.w-border-list li .b-icon strong{ position: absolute; top: 0; left: 0; background-color: #000; opacity: 0.5; filter: alpha(opacity=50); color: #fff; line-height: 55px; width: 56px; text-align: center; display: none;}
+.w-border-list li.active { color: #189cfb; position: relative; }
+.w-border-list li.active .b-select .w-checkbox{ background-position: -15px -17px;}
+.w-border-list li.current{ background-color: #f5fbff; border-color: #189cfb; position: relative; z-index: 5;}
+.w-border-list li.hover{ background-color: #f5fbff; text-align: left; }
+.w-border-list li.hover .b-next{ display: block;}
+.w-border-list li.hover .b-number{ display: none;}
+.w-border-list li.hover .b-text{ margin-left: 15px;}
+.w-border-list li.mathItem{ text-align: left; }
+.w-border-list li.mathItem .b-next{ display: block; padding-top: 10px; right: 70px;}
+.w-border-list li.mathItem .b-next .w-select .current{ width: 80px;}
+.w-border-list li.mathItem .b-next .w-select ul{ width: 94px;}
+.w-border-list li.mathItem .b-text{ margin-left: 15px;}
+
+
+/*appw*/
+.w-icon-thapp{color:#fa7252;padding-left:3px;padding-right:3px;}
+.title:hover .w-icon-thapp{background-color:#fa7252;color:#fff;line-height:16px;border-radius: 2px;}
+.title:hover .link-wbox{display:block}
+.link-wbox{position:absolute;top:52px;left:-64px;display: none;}
+.link-wbox p{color:#4e5656;font-size:12px;line-height: 30px;}
+.link-wbox .link-wtriangle{width:16px;height:6px;position:absolute;top:-5px;left:70px;background: url(../img/teacher/_r2_c2.png) no-repeat}
+.link-wbox .link-wbg{background-color: #fff;width:150px;height:165px;border:1px solid #D9D9D9;border-radius:3px;}
+.link-wbox .link-wbg img{top:50%;left:0;width:115px;height:115px;margin-top:15px;}
+/*app2*/
+.hovertitle{font-size:12px;color:#189cfb;margin-top:5px;cursor: pointer}
+.hovertitle:hover .link-wbox1{display:block}
+.link-wbox1{position:absolute;top:80px;left:57px;display: none;}
+.link-wbox1 p{color:#4e5656;font-size:12px;line-height: 30px;}
+.link-wbox1 .link-wtriangle{width:13px;height:6px;position:absolute;top:165px;left:70px;background: url(../img/teacher/_r2_c1.png) no-repeat}
+.link-wbox1 .link-wbg{background-color: #fff;width:150px;height:165px;border:1px solid #D9D9D9;border-radius:3px;}
+.link-wbox1 .link-wbg img{top:50%;left:0;width:115px;height:115px;margin-top:15px;}
+/*app3*/
+.hovertitle1{font-size:12px;color:#189cfb;cursor: pointer}
+.hovertitle1:hover .link-wbox2{display:block}
+.link-wbox2{position:absolute;top:25px;left:-48px;display: none;z-index: 1000}
+.link-wbox2 p{color:#4e5656;font-size:12px;line-height: 30px;text-align: center}
+.link-wbox2 .link-wtriangle{width:13px;height:6px;position:absolute;top:-5px;left:70px;background: url(../img/teacher/_r2_c2.png) no-repeat}
+.link-wbox2 .link-wbg{background-color: #fff;width:150px;height:165px;border:1px solid #D9D9D9;border-radius:3px;}
+.link-wbox2 .link-wbg img{top:50%;left:0;width:115px;height:115px;margin-top:15px;margin-left:15px;}
+

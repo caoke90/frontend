@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data": {
+        "homework_name": "英语练习 08-03",
+        "start_time": 1533264691000,
+        "close_time": 1533264691000,
+        "current_time": 1533264691000,
+        "open_answer_time": null,
+        "expect_duration": 178,
+        "various_expect_duration": [],
+        "independent_clazz_ids": []
+    },
+    "message": "",
+    "error_code": 0
+}

@@ -1,0 +1,7069 @@
+{
+	"result": "success",
+	"message": "ok",
+	"data": {
+		"_id": "P_20300119424627-36",
+		"provider_id": 0,
+		"from_researcher": 0,
+		"books_new": [{
+			"series_id": "BKC_20300054089807",
+			"book_id": "BK_20300001482368",
+			"unit_id": "BKC_20300076393152",
+			"lesson_id": "BKC_20300076397546",
+			"term_type": 1,
+			"class_level": 7
+		}, {
+			"series_id": "BKC_20300232526902",
+			"book_id": "BK_20300003532096",
+			"unit_id": "BKC_20300232620429",
+			"term_type": 1,
+			"class_level": 7
+		}],
+		"title": "\u5317\u4eac\u5916\u7814\u7248\u4e03\u5e74\u7ea7\u4e0a\u518cModule 1\u6a21\u5757\u68c0\u6d4b",
+		"subject_id": 203,
+		"regions": [{
+			"province_id": 110000
+		}],
+		"version": 36,
+		"usage": 0,
+		"total_score": 140,
+		"paper_types": [3],
+		"from_id": 0,
+		"total_num": 53,
+		"minutes": 83,
+		"parts": [{
+			"title": "\u542c\u529b",
+			"description": "",
+			"minutes": 9,
+			"total_num": 12,
+			"score": 20,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20301187940864-15",
+				"number": 1,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301187970189-15",
+				"number": 2,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301187996265-15",
+				"number": 3,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301188019131-15",
+				"number": 4,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301188031158-15",
+				"number": 5,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301064345631-13",
+				"number": 6,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301187982119-15",
+				"number": 7,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301187993080-14",
+				"number": 8,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301188006102-16",
+				"number": 9,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301188012801-14",
+				"number": 10,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301188101156-15",
+				"number": 11,
+				"score": 5,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20305422731785-12",
+				"number": 12,
+				"score": 5,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u5355\u9879\u9009\u62e9",
+			"description": "",
+			"minutes": 6,
+			"total_num": 10,
+			"score": 10,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819475454-11",
+				"number": 13,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20300906582134-16",
+				"number": 14,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819473224-10",
+				"number": 15,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819472595-11",
+				"number": 16,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301064671333-9",
+				"number": 17,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819470269-13",
+				"number": 18,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20300954333789-19",
+				"number": 19,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301064744524-9",
+				"number": 20,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819467411-11",
+				"number": 21,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819466482-10",
+				"number": 22,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u5b8c\u5f62",
+			"description": "",
+			"minutes": 10,
+			"total_num": 1,
+			"score": 10,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819524335-11",
+				"number": 23,
+				"score": 10,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u9605\u8bfb\u7406\u89e3",
+			"description": "",
+			"minutes": 23,
+			"total_num": 3,
+			"score": 30,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819539139-6",
+				"number": 24,
+				"score": 10,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819538628-9",
+				"number": 25,
+				"score": 10,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819537076-9",
+				"number": 26,
+				"score": 10,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u6839\u636e\u9996\u5b57\u6bcd\u63d0\u793a\u586b\u7a7a",
+			"description": "",
+			"minutes": 7,
+			"total_num": 10,
+			"score": 10,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819592779-10",
+				"number": 27,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819591888-12",
+				"number": 28,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819590867-12",
+				"number": 29,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819589072-11",
+				"number": 30,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819588783-11",
+				"number": 31,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819587507-11",
+				"number": 32,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819585725-10",
+				"number": 33,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819584174-11",
+				"number": 34,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819583909-11",
+				"number": 35,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819581649-12",
+				"number": 36,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u53e5\u578b\u8f6c\u6362",
+			"description": "",
+			"minutes": 7,
+			"total_num": 10,
+			"score": 24,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20301070702841-7",
+				"number": 37,
+				"score": 2,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20301070708936-7",
+				"number": 38,
+				"score": 2,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819679382-9",
+				"number": 39,
+				"score": 4,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819677209-11",
+				"number": 40,
+				"score": 1,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819676814-10",
+				"number": 41,
+				"score": 4,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819674951-11",
+				"number": 42,
+				"score": 2,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20300563190082-21",
+				"number": 43,
+				"score": 2,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819671686-11",
+				"number": 44,
+				"score": 2,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819670401-12",
+				"number": 45,
+				"score": 2,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819669644-12",
+				"number": 46,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u5b8c\u6210\u53e5\u5b50",
+			"description": "",
+			"minutes": 4,
+			"total_num": 5,
+			"score": 16,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819797387-8",
+				"number": 47,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819796829-9",
+				"number": 48,
+				"score": 4,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819795968-11",
+				"number": 49,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819794683-9",
+				"number": 50,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20308819793084-9",
+				"number": 51,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u6839\u636e\u4e0a\u4e0b\u6587\u8865\u5168\u5bf9\u8bdd",
+			"description": "",
+			"minutes": 7,
+			"total_num": 1,
+			"score": 10,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819851280-7",
+				"number": 52,
+				"score": 10,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}, {
+			"title": "\u5199\u4f5c",
+			"description": "",
+			"minutes": 10,
+			"total_num": 1,
+			"score": 10,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20308819889612-9",
+				"number": 53,
+				"score": 10,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "normal",
+			"extras": []
+		}],
+		"doc_id": "P_20300119424627",
+		"question_boxs": [{
+			"id": "Q_20301188101156-15",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068537497",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165842620",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": "http:\/\/cdn.17zuoye.com\/fs-resource\/57a6b8002ed9b6360c522815",
+			"listenName": "1.mp3",
+			"listenSeconds": 71,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031001,
+			"contentType2Id": 2030005,
+			"difficultyInt": 4,
+			"description": "\u542c\u5bf9\u8bdd\uff0c\u6839\u636e\u5bf9\u8bdd\u7684\u5185\u5bb9\uff0c\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u7684\u9009\u9879\u4e2d\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002\u5f55\u97f3\u542c\u4e00\u904d\u3002",
+			"notFitMobile": 0,
+			"seconds": 131,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "<p>M: Excuse me, Grace.<br>W: Yes?<br>M: I found a computer game. Is it yours?<br>W: Oh, yes. Thanks!<br>M: You're welcome. Is that your box?<br>W: Yes. My ring, my watch and my ID card are in it.<br>M: I see. What's that?<br>W: It's a red bag.<br>M: Is that your bag?<\/p><p>W: No, it isn't. It is my teacher's bag.<br><br><\/p>",
+				"analysis": "",
+				"subContents": [{
+					"content": "The boy found a(n) _____.",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "ID card",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "computer game",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "watch",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}, {
+					"content": "The box is _____.",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "the teacher's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "the boy's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Grace's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}, {
+					"content": "What is NOT in the box?",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "A ring.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "A watch.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "A flower.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}, {
+					"content": "What colour is the bag?",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Blue.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Red.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Brown.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}, {
+					"content": "The bag is _____.",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "the teacher's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Grace's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "the boy's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20301188101156",
+			"version": 15,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20305022,
+			"tagCode": "A07T5X3",
+			"createdAt": "2016-08-07T12:24:10.700+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-30T21:43:32.276+08:00",
+			"olUpdatedAt": "2018-08-30T21:43:32.276+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203000,
+			"new_content_subtype_id": 203000009,
+			"sceneDescription": null,
+			"listenUrlSingle": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b5319eec063cf3882ff5524.sy3",
+			"listenSecondsSingle": 32,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0],
+				[0],
+				[0],
+				[0],
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["1"],
+				["2"],
+				["2"],
+				["1"],
+				["0"]
+			],
+			"newContentTypeId": 203000,
+			"newContentSubtypeId": 203000009,
+			"majorContentType": {
+				"nid": 203000,
+				"name": "\u542c\u529b\u9009\u62e9"
+			},
+			"contentType": {
+				"nid": 203000009,
+				"name": "\u542c\u957f\u5bf9\u8bdd\u9009\u7b54\u6848"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20305422731785-12",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068518644",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165812071",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": "http:\/\/cdn.17zuoye.com\/fs-resource\/57f3084e2ed9b6731f9f61c9.sy3",
+			"listenName": "12.mp3",
+			"listenSeconds": 42,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300118999843-33", "P_20300119424627-31", "P_20300191447767-20", "P_20300118999843-34", "P_20300119424627-32", "P_20300119424627-33", "P_20300118999843-35", "P_20300191447767-21", "P_20300118999843-36", "P_20300119424627-34", "P_20300191447767-22", "P_20300118999843-37", "P_20300118999843-38", "P_20300119424627-35", "P_20300191447767-23", "P_20300118999843-39", "P_20300191447767-24", "P_20300119424627-36", "P_20300118999843-40", "P_20300191447767-25"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031003,
+			"contentType2Id": 2030010,
+			"difficultyInt": 1,
+			"description": "\u542c\u72ec\u767d\uff0c\u5c06\u8868\u683c\u6240\u7f3a\u7684\u5173\u952e\u4fe1\u606f\u586b\u5199\u5728\u76f8\u5e94\u4f4d\u7f6e\u4e0a\u3002\u5f55\u97f3\u542c\u4e24\u904d\u3002",
+			"notFitMobile": 0,
+			"seconds": 141,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "<table width=\"344\"><tbody><tr class=\"firstRow\"><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"133\" align=\"center\">Name<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"87\" align=\"center\">Sam<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"123\" align=\"center\">Ling Mei<\/td><\/tr><tr><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"133\" align=\"center\">From<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"87\" align=\"center\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"123\" align=\"center\">China<\/td><\/tr><tr><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"133\" align=\"center\">Favourite colour<\/td><td valign=\"bottom\" style=\"border: 1px solid rgb(0, 0, 0);\" width=\"87\" align=\"center\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><\/td><td valign=\"bottom\" style=\"border: 1px solid rgb(0, 0, 0);\" width=\"123\" align=\"center\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><\/td><\/tr><tr><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"133\" align=\"center\">Grade<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"87\" align=\"center\">Seven<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"123\" align=\"center\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><\/td><\/tr><tr><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"133\" align=\"center\">Class<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"87\" align=\"center\">Four<\/td><td valign=\"bottom\" style=\"word-break: break-word; border: 1px solid rgb(0, 0, 0);\" width=\"123\" align=\"center\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><\/td><\/tr><\/tbody><\/table>",
+				"contentDesc": "<p>Hi, I'm Sam. I'm from England. My favourite colour is yellow. I have a friend. Her name is Ling Mei. She is from China. Her favourite colour is red. We are in Grade Seven. I'm in Class Four, but she is in Class Three.<\/p>",
+				"analysis": "",
+				"subContents": [{
+					"content": "__$$__",
+					"answers": [{
+						"answer": "England",
+						"subAnswers": ["England"],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 4,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["England"],
+					"tagsDesc": []
+				}, {
+					"content": "__$$__",
+					"answers": [{
+						"answer": "Yellow",
+						"subAnswers": ["Yellow"],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 4,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["Yellow"],
+					"tagsDesc": []
+				}, {
+					"content": "__$$__",
+					"answers": [{
+						"answer": "Red",
+						"subAnswers": ["Red"],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 4,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["Red"],
+					"tagsDesc": []
+				}, {
+					"content": "__$$__",
+					"answers": [{
+						"answer": "Seven",
+						"subAnswers": ["Seven", "7"],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 4,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["Seven"],
+					"tagsDesc": []
+				}, {
+					"content": "__$$__",
+					"answers": [{
+						"answer": "Three",
+						"subAnswers": ["Three", "3"],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 4,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 5,
+					"answersSeconds": 5,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["Three"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20305422731785",
+			"version": 12,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20304306,
+			"tagCode": "R18T5",
+			"createdAt": "2016-10-02T14:23:43.325+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-16T16:07:33.130+08:00",
+			"olUpdatedAt": "2018-08-21T16:34:30.118+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": [{
+				"name": "SpatialImagination",
+				"stars": 0
+			}, {
+				"name": "AbstractSummarizing",
+				"stars": 0
+			}, {
+				"name": "DeductiveReasoning",
+				"stars": 0
+			}, {
+				"name": "SolvingArithmetic",
+				"stars": 0
+			}, {
+				"name": "DataHandling",
+				"stars": 0
+			}, {
+				"name": "PracticalApplication",
+				"stars": 0
+			}],
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203001,
+			"new_content_subtype_id": 203001003,
+			"sceneDescription": null,
+			"listenUrlSingle": "http:\/\/cdn.17zuoye.com\/fs-tts\/5b4bd2a4e469c611598b4568",
+			"listenSecondsSingle": 20,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0],
+				[0],
+				[0],
+				[0],
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["England"],
+				["Yellow"],
+				["Red"],
+				["Seven"],
+				["Three"]
+			],
+			"newContentTypeId": 203001,
+			"newContentSubtypeId": 203001003,
+			"majorContentType": {
+				"nid": 203001,
+				"name": "\u542c\u529b\u586b\u7a7a"
+			},
+			"contentType": {
+				"nid": 203001003,
+				"name": "\u542c\u540e\u8bb0\u5f55"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819475454-11",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u2014What's the weather like in spring in Jinan?<\/p><p>\u2014<span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span>.<\/p>",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300056856093",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [{
+							"id": "KP_20300162424376",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "It's warm",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Cool",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Hot",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Cold",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u5f62\u5bb9\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u2014\u2014\u6d4e\u5357\u6625\u5929\u7684\u5929\u6c14\u600e\u4e48\u6837\uff1f\u2014\u2014\u6e29\u6696\u3002It's warm.\u6e29\u6696\u3002cool \u51c9\u723d\u7684\uff1bhot \u70ed\u7684\uff1bcold \u51b7\u7684\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300056856093"]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819475454",
+			"version": 11,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2017-07-29T17:12:45.823+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T05:25:21.536+08:00",
+			"olUpdatedAt": "2018-08-29T05:25:21.536+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["0"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20300906582134-16",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 3,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": "566e9e822ed9b67453432044",
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "Practice more, _____ you'll do better in playing chess.",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300110414167",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300069483760",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154331066",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300154673567",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "but",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "and",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "when",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "after",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u8fde\u8bcd\u7684\u7528\u6cd5\u3002\u53e5\u610f\uff1a\u591a\u7ec3\u4e60\uff0c\u4f60\u4e0b\u68cb\u5c31\u4f1a\u4e0b\u5f97\u66f4\u597d\u3002but \u4f46\u662f\uff0c\u8868\u8f6c\u6298\uff1band \u548c\uff0c\u7136\u540e\uff1bwhen \u5f53\u2026\u2026\u65f6\u5019\uff1bafter \u5728\u2026\u2026\u4e4b\u540e\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300110414167", "KP_20300069483760"]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20300906582134",
+			"version": 16,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2016-03-15T12:05:59.069+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T03:03:40.840+08:00",
+			"olUpdatedAt": "2018-08-29T03:03:40.840+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 0,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["1"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819473224-10",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165548189",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u2014Do you like <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> TV?<\/p><p>\u2014No, I don't.<\/p>",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300067438569",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "watch",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "watches",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "watching",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "see",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u56fa\u5b9a\u642d\u914d\u3002\u53e5\u610f\uff1a\u2014\u2014\u4f60\u559c\u6b22\u770b\u7535\u89c6\u5417\uff1f\u2014\u2014\u4e0d\uff0c\u6211\u4e0d\u559c\u6b22\u3002watch TV \u770b\u7535\u89c6\uff1blike doing sth. \u559c\u6b22\u505a\u67d0\u4e8b\u3002see \u52a8\u8bcd\uff0c\u770b\u5230\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300067438569"]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819473224",
+			"version": 10,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2017-07-29T17:12:45.668+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T03:32:39.128+08:00",
+			"olUpdatedAt": "2018-08-29T03:32:39.128+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["2"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819472595-11",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [{
+				"id": "KP_20300154663474",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300142570196-35", "P_20300119424627-35", "P_20300119424627-36", "P_20300142570196-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u2014_____?<\/p><p>\u2014He is twelve.<\/p>",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300067469610",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "How is he",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "How old is he",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "What is he",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "How does he do",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u7279\u6b8a\u7591\u95ee\u53e5\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u2014\u2014\u4ed6\u591a\u5927\u4e86\uff1f\u2014\u2014\u4ed612\u5c81\u3002A.\u4ed6\u600e\u4e48\u6837\uff1fB.\u4ed6\u591a\u5927\u4e86\uff1fC.\u4ed6\u662f\u505a\u4ec0\u4e48\u7684\uff1fD\u9879\u4e0d\u6b63\u786e\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300067469610"]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819472595",
+			"version": 11,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2017-07-29T17:12:45.573+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T06:22:57.243+08:00",
+			"olUpdatedAt": "2018-08-29T06:22:57.243+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["1"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20301064671333-9",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 3,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": "5695b6d42ed9b63e8c78222f",
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u2014Where are you from?<br><\/p><p>\u2014Lingling is from _____ and we are from _____.<\/p>",
+					"answers": [{
+						"answer": "3",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300064452040",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300063241784",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [{
+							"id": "KP_20300156198240",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300157267552",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "a Chinese; England",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Chinese; English",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Chinese; England",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "China; England",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u540d\u8bcd\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u2014\u2014\u4f60\u4eec\u6765\u81ea\u4e8e\u54ea\u91cc\uff1f\u2014\u2014\u73b2\u73b2\u6765\u81ea\u4e8e\u4e2d\u56fd\uff0c\u6211\u4eec\u6765\u81ea\u4e8e\u82f1\u56fd\u3002China \u4e2d\u56fd\uff1bEngland \u82f1\u56fd\uff1bChinese \u4e2d\u6587\uff0c\u4e2d\u56fd\u4eba\uff1bEnglish \u82f1\u8bed\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fD\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300064452040", "KP_20300063241784"]
+					],
+					"answerList": ["3"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20301064671333",
+			"version": 9,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2016-06-15T22:08:54.750+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T06:06:50.972+08:00",
+			"olUpdatedAt": "2018-08-29T06:06:50.972+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 0,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["3"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819470269-13",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 34,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "Robert Brown comes from America. Robert is his <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> name and Brown is his <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> name.",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300067376012",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300067377957",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [{
+							"id": "KP_20300163688035",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300163508820",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "given; family",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "family; given",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "family; last",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "first; given",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u56fa\u5b9a\u8bcd\u7ec4\u3002\u53e5\u610f\uff1aRobert Brown\u6765\u81ea\u7f8e\u56fd\uff0cRobert\u662f\u4ed6\u7684\u540d\uff0cBrown\u662f\u4ed6\u7684\u59d3\u3002given name \u540d\u5b57\uff0c\u6559\u540d\uff1bfamily name \u59d3\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300067376012", "KP_20300067377957"]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819470269",
+			"version": 13,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2017-07-29T17:12:45.439+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T03:19:19.526+08:00",
+			"olUpdatedAt": "2018-08-29T03:19:19.526+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["0"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20300954333789-19",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [{
+				"id": "KP_20300154493321",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300154479255",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 27,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": "5695b6d42ed9b63e8c78225a",
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>Li Na started playing <mark type=\"blank\" style=\"display:none\"><\/mark>_____ tennis at the age of six. She is one of <mark type=\"blank\" style=\"display:none\"><\/mark>_____ best tennis players in the world.<\/p>",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300052074411",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}, {
+							"id": "KP_20300051910793",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "the; the",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "a; \/",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "\/; the",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "the; \/",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u51a0\u8bcd\u7684\u4f7f\u7528\u3002\u53e5\u610f\uff1a\u674e\u5a1c\u5728\u5979\u516d\u5c81\u65f6\u5f00\u59cb\u6253\u7f51\u7403\u3002\u5979\u662f\u5168\u4e16\u754c\u6700\u597d\u7684\u7f51\u7403\u9009\u624b\u4e4b\u4e00\u3002play tennis \u8868\u793a\u201c\u6253\u7f51\u7403\u201d\uff0ctennis\u524d\u4e0d\u52a0\u4efb\u4f55\u51a0\u8bcd\uff1b\u6700\u9ad8\u7ea7best\u4e4b\u524d\u8981\u52a0\u5b9a\u51a0\u8bcdthe\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300052074411", "KP_20300051910793"]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20300954333789",
+			"version": 19,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2016-03-31T19:41:51.242+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T05:47:25.576+08:00",
+			"olUpdatedAt": "2018-08-29T05:47:25.576+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 0,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["2"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20301064744524-9",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300065982190",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300065980354",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300154830913",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300154830913",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300076461217-31", "P_20300119424627-35", "P_20300049270775-27", "P_20300076381960-37", "P_20300076461217-32", "P_20300076381960-38", "P_20300119424627-36", "P_20300049270775-28", "P_20300076381960-39", "P_20300076461217-33"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 3,
+			"description": "\u5355\u9879\u9009\u62e9",
+			"notFitMobile": 0,
+			"seconds": 19,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": "5695b6d42ed9b63e8c78222f",
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>You _____ a teacher. I _____ a student. My sister _____ a student, too.<\/p>",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "am; is; are",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "is; are; am",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "are; am; is",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "are; is; is",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u7cfb\u52a8\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u4f60\u662f\u4e00\u4f4d\u8001\u5e08\u3002\u6211\u662f\u4e00\u4e2a\u5b66\u751f\u3002\u6211\u7684\u59b9\u59b9\u4e5f\u662f\u4e00\u4e2a\u5b66\u751f\u3002you\u4e0eare\u642d\u914d\uff1bI\u4e0eam\u642d\u914d\uff1bmy sister\u662f\u7b2c\u4e09\u4eba\u79f0\u5355\u6570\uff0c\u4e0eis\u642d\u914d\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20301064744524",
+			"version": 9,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2016-06-15T22:54:48.361+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T04:10:48.354+08:00",
+			"olUpdatedAt": "2018-08-29T04:10:48.354+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 0,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["2"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819467411-11",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u2014Are you Jim?<\/p><p>\u2014_____.<\/p>",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300052341549",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154646133",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Yes, I not",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Yes, I am",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "No, I'm",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Yes, I'm not",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u4e00\u822c\u7591\u95ee\u53e5\u7684\u80af\u5b9a\u56de\u7b54\u3002\u53e5\u610f\uff1a\u2014\u2014\u4f60\u662fJim\u5417\uff1f\u2014\u2014\u662f\u7684\uff0c\u6211\u662f\u3002Are you Jim? \u80af\u5b9a\u56de\u7b54\u662f\u201cYes, I am.\u201d\uff1b\u5426\u5b9a\u56de\u7b54\u662f\u201cNo, I'm not.\u201d\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300052341549"]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819467411",
+			"version": 11,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2017-07-29T17:12:45.230+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T05:57:15.252+08:00",
+			"olUpdatedAt": "2018-08-29T05:57:15.252+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["1"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819466482-10",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165952859",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031004,
+			"contentType2Id": 2030013,
+			"difficultyInt": 2,
+			"description": "\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 40,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u2014_____<\/p><p>\u2014That's a good idea!<\/p>",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [{
+							"id": "KP_20300073710758",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "What do I do?",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "What about going swimming?",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Are you free?",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Where are you from?",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u60c5\u666f\u4ea4\u9645\u3002\u53e5\u610f\uff1a\u2014\u2014\u53bb\u6e38\u6cf3\u600e\u4e48\u6837\uff1f\u2014\u2014\u90a3\u662f\u4e2a\u597d\u4e3b\u610f\u3002What do I do? \u6211\u8be5\u600e\u4e48\u529e\uff1fWhat about going swimming? \u53bb\u6e38\u6cf3\u600e\u4e48\u6837\uff1fAre you free? \u4f60\u6709\u7a7a\u5417\uff1fWhere are you from? \u4f60\u6765\u81ea\u54ea\u91cc\uff1f<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						["KP_20300073710758"]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819466482",
+			"version": 10,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303137,
+			"tagCode": "B01X4",
+			"createdAt": "2017-07-29T17:12:45.156+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T04:56:54.261+08:00",
+			"olUpdatedAt": "2018-08-29T04:56:54.261+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203006,
+			"new_content_subtype_id": 203006000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["1"]
+			],
+			"newContentTypeId": 203006,
+			"newContentSubtypeId": 203006000,
+			"majorContentType": {
+				"nid": 203006,
+				"name": "\u5355\u9009\u5c0f\u9898"
+			},
+			"contentType": {
+				"nid": 203006000,
+				"name": "\u5355\u9879\u9009\u62e9"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819524335-11",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068518644",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300083041093",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165824384",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031006,
+			"contentType2Id": 2030024,
+			"difficultyInt": 3,
+			"description": "\u9605\u8bfb\u4e0b\u9762\u7684\u77ed\u6587\uff0c\u638c\u63e1\u5176\u5927\u610f\uff0c\u7136\u540e\u4ece\u77ed\u6587\u540e\u5404\u9898\u6240\u7ed9\u7684\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 600,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "Look at this girl. <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> name is Wang Meimei. <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> is twelve. Wang Ming is her brother. He is <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> Class Three Grade Two. Do you know how old he is? He is fourteen years old. The brother <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> sister are in No. 2 Middle School. Their mother <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> a teacher. She is an <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> teacher. Their father, Mr Wang, is a teacher, <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____. He is a Chinese teacher in No. 8 Middle School. Their students all love them because they love their students. They have (\u6709) a cat. <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> name is Mimi. <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> a nice cat. The cat and Wang Meimei are <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> friends.<\/span>",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166165428",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Her",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "She",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "He",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "His",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u4ee3\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u5979\u7684\u540d\u5b57\u662fWang Meimei\u3002her \u5f62\u5bb9\u8bcd\u6027\u7269\u4e3b\u4ee3\u8bcd\uff0c\u5979\u7684\uff0c\u4fee\u9970\u540d\u8bcd\u3002she \u5979\uff0c\u4f5c\u4e3b\u8bed\uff1bhe \u4ed6\uff0c\u4f5c\u4e3b\u8bed\uff1bhis \u4ed6\u7684\u3002\u7531\u4e0a\u53e5\u201cLook at this girl.\u201d\u53ef\u77e5\u662f\u5973\u5b69\uff0c\u6240\u4ee5\u7528her\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "3",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154761877",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "He",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "I",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "You",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "She",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u4eba\u79f0\u4ee3\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u597912\u5c81\u3002she \u5979\uff1bhe \u4ed6\uff1bI \u6211\uff1byou \u4f60\/\u4f60\u4eec\u3002\u7531\u4e0a\u6587\u77e5\u9053\u662f\u5973\u5b69\uff0c \u6240\u4ee5\u7528she\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fD\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["3"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154941540",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "on",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "with",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "in",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "at",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u4ecb\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u4ed6\u57282\u5e74\u7ea73\u73ed\u3002\u5728\u67d0\u4e2a\u73ed\u7ea7\u7528\u4ecb\u8bcdin\u3002on \u5728\u2026\u2026\u4e0a\u9762\uff1bwith \u6709\uff1bat \u5728\uff08\u65f6\u95f4\uff0c\u5730\u70b9\u7b49\uff09\u3002 <\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "3",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154331066",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "but",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "so",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "or",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "and",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u8fde\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u54e5\u54e5\u548c\u59b9\u59b9\u90fd\u5728\u7b2c\u4e8c\u4e2d\u5b66\u3002and \u5e76\u4e14\uff1bbut \u4f46\u662f\uff1bso \u6240\u4ee5\uff1bor \u5426\u5219\u3002  <\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fD\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["3"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154830913",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "am",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "is",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "are",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "be",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u7cfb\u52a8\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u4ed6\u4eec\u7684\u5988\u5988\u662f\u4e00\u4f4d\u8001\u5e08\u3002\u4e00\u822c\u73b0\u5728\u65f6\uff0ctheir mother\u4f5c\u4e3b\u8bed\uff0cbe\u52a8\u8bcd\u7528is\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300157268845",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "English",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Chinese",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Japanese",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "England",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u8003\u67e5\u7684\u662f\u5f62\u5bb9\u8bcd\u53ca\u540d\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u5979\u662f\u4e00\u4f4d\u82f1\u8bed\u8001\u5e08\u3002English \u82f1\u6587\u7684\uff1bChinese \u4e2d\u6587\u7684\uff1bJapanese \u65e5\u8bed\u7684\uff1bEngland \u82f1\u56fd\u3002\u67d0\u4e2a\u5b66\u79d1\u7684\u8001\u5e08\uff0c\u6240\u4ee5\u6392\u9664D\u3002\u51a0\u8bcd\u662fan\uff0c\u6240\u9009\u5355\u8bcd\u7b2c\u4e00\u4e2a\u97f3\u7d20\u9700\u662f\u5143\u97f3\u97f3\u7d20\uff0c\u6240\u4ee5\u662f\u201cEnglish\u201d\u3002Chinese\u548cJapanese\u524d\u7684\u4e0d\u5b9a\u51a0\u8bcd\u5e94\u7528a\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300165772330",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "to",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "too",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "two",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "also",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u526f\u8bcd\u3001\u6570\u8bcd\u53ca\u4ecb\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u4ed6\u4eec\u7684\u7238\u7238\uff0cWang\u5148\u751f\uff0c\u4e5f\u662f\u4e00\u4f4d\u8001\u5e08\u3002too \u526f\u8bcd\uff0c\u4e5f\uff0c\u7528\u4e8e\u80af\u5b9a\u53e5\u53e5\u672b\uff1balso \u526f\u8bcd\uff0c\u4e5f\uff1b\u7528\u4e8e\u80af\u5b9a\u53e5\u53e5\u4e2d\u3002to \u4ecb\u8bcd\uff0c\u5bf9\u4e8e\uff1btwo \u6570\u8bcd\uff0c\u4e8c\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154773071",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Its",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "It",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "It's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "its",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u5f62\u5bb9\u8bcd\u6027\u7269\u4e3b\u4ee3\u8bcd\u7684\u6b63\u786e\u5f62\u5f0f\u3002\u53e5\u610f\uff1a\u5b83\u7684\u540d\u5b57\u662fMimi\u3002its \u5f62\u5bb9\u8bcd\u6027\u7269\u4e3b\u4ee3\u8bcd\uff0c\u5b83\u7684\uff0c\u4fee\u9970\u540d\u8bcd\uff0c\u4f4d\u4e8e\u53e5\u9996\uff0c\u9996\u5b57\u6bcd\u5927\u5199\u3002it \u5b83\uff1bit's=it is \u5b83\u662f\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300154390725",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Its",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "They're",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "It's",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "It",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u4ee3\u8bcd\u548c\u7cfb\u52a8\u8bcd\u3002\u53e5\u610f\uff1a\u5b83\u662f\u4e00\u53ea\u53cb\u597d\u7684\u732b\u3002it's=it is \u5b83\u662f\uff1bits \u5b83\u7684\uff1bthey're \u5b83\u4eec\u662f\uff1bit \u5b83\uff0c\u4f5c\u4e3b\u8bed\u6216\u5bbe\u8bed\u3002\u53e5\u4e2d\u7f3a\u5c11\u4e3b\u8bed\u548c\u8c13\u8bed\uff0c\u6240\u4ee5\u6392\u9664A\u548cD\u3002\u6839\u636e\u53e5\u610f\u201c\u4e00\u53ea\u732b\u201d\uff0c\u6240\u4ee5\u662f\u5355\u6570\u5f62\u5f0f\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}, {
+					"content": "",
+					"answers": [{
+						"answer": "3",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300157945549",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "right",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "fine",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "well",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "good",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p style=\"white-space: normal;\">\u6b64\u9898\u8003\u67e5\u7684\u662f\u5f62\u5bb9\u8bcd\u7684\u8fa8\u6790\u3002\u53e5\u610f\uff1a\u732b\u548cWang Meimei\u662f\u597d\u670b\u53cb\u3002good \u597d\u7684\uff1bright \u5bf9\u7684\uff1bfine \u7f8e\u597d\u7684\uff0c\u6674\u6717\u7684\uff0c\u5065\u5eb7\u7684\uff1bwell \u4f5c\u4e3a\u5f62\u5bb9\u8bcd\u65f6\uff0c\u6307\u8eab\u4f53\u597d\u3002<\/p><p style=\"white-space: normal;\">\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fD\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["3"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819524335",
+			"version": 11,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 203020262,
+			"tagCode": "C01T10X4",
+			"createdAt": "2017-07-29T17:16:11.511+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T03:54:22.406+08:00",
+			"olUpdatedAt": "2018-08-29T03:54:22.406+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203008,
+			"new_content_subtype_id": 203008000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0],
+				[0],
+				[0],
+				[0],
+				[0],
+				[0],
+				[0],
+				[0],
+				[0],
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["0"],
+				["3"],
+				["2"],
+				["3"],
+				["1"],
+				["0"],
+				["1"],
+				["0"],
+				["2"],
+				["3"]
+			],
+			"newContentTypeId": 203008,
+			"newContentSubtypeId": 203008000,
+			"majorContentType": {
+				"nid": 203008,
+				"name": "\u7bc7\u7ae0\u5185\u9009\u62e9"
+			},
+			"contentType": {
+				"nid": 203008000,
+				"name": "\u5b8c\u5f62\u586b\u7a7a"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819538628-9",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068518644",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300083042085",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165812071",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300166035835",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031007,
+			"contentType2Id": 2030025,
+			"difficultyInt": 4,
+			"description": "\u9605\u8bfb\u4e0b\u5217\u77ed\u6587\uff0c\u6839\u636e\u77ed\u6587\u5185\u5bb9\uff0c\u4ece\u77ed\u6587\u540e\u5404\u9898\u6240\u7ed9\u7684\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 450,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "<p>Yang: Good morning, Betty!<\/p><p>Betty: Good morning, Yang!<\/p><p>Yang: How are you this morning?<\/p><p>Betty: Very well. Thank you.<\/p><p>Yang: Do you know Rose, a new student in Class 3 Grade 7?<\/p><p>Betty: Yes.<\/p><p>Yang: Can you tell me something about her?<\/p><p>Betty: Sure. We're in the same class. I know her very well. She is from England. She speaks English very well. She can speak Chinese, too.<\/p><p>Yang: Do you know her mother?<\/p><p>Betty: Yes, I do. Her mother is an English teacher in our school. She gives us English class every day. She loves Chinese students very much. She is a good teacher. We all love her. It's time to have class. I must go now. Bye!<\/p><p>Yang: Bye!<\/p>",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>Rose isn't _____.<\/p>",
+					"answers": [{
+						"answer": "3",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "from England",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "a foreign(\u5916\u56fd\u7684) student",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "a student in China",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "an American",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aShe is from England. \u5979\u6765\u81ea\u82f1\u56fd\u3002\u6b64\u5904\u201c\u5979\u201d\u6307\u7684\u662fRose\uff0c\u6240\u4ee5Rose \u4e0d\u662f\u7f8e\u56fd\u4eba\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fD\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["3"],
+					"tagsDesc": []
+				}, {
+					"content": "<p>Betty's English teacher _____.<\/p>",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "is Rose's mother",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "can't speak English well",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "teaches Betty but not Rose",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "knows Yang very well",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aHer mother is an English teacher in our school. She gives us English class every day. \u5979\u5988\u5988\u662f\u6211\u4eec\u5b66\u6821\u7684\u82f1\u8bed\u8001\u5e08\u3002\u5979\u6bcf\u5929\u7ed9\u6211\u4eec\u4e0a\u82f1\u8bed\u8bfe\u3002\u8fd9\u662fBetty \u8bf4\u7684\u8bdd\uff0c\u201c\u5979\u5988\u5988\u201d\u6307\u7684\u662fRose \u7684\u5988\u5988\uff0c\u6240\u4ee5Betty \u7684\u82f1\u8bed\u8001\u5e08\u662fRose \u7684\u5988\u5988\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}, {
+					"content": "<p>What do we know from the passage?<\/p>",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "Rose and Betty are in different classes.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Rose is in the same class with Yang.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Rose is in the same class with Betty.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Rose's mother is the English teacher of Rose, Yang and Betty.",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aWe're in the same class.\u6211\u4eec\u5728\u540c\u4e00\u4e2a\u73ed\u7ea7\u3002\u6b64\u5904\u201c\u6211\u4eec\u201d\u6307\u7684\u662fBetty \u548cRose\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}, {
+					"content": "Yang _____.",
+					"answers": [{
+						"answer": "3",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000746434",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "knows Rose's mother very well",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "knows Rose very well",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "is Rose's friend",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "wants to know about Rose's family",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u63a8\u7406\u5224\u65ad\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aDo you know Rose, a new student in Class 3 Grade 7? \u4f60\u8ba4\u8bc6Rose\uff0c\u4e03\u5e74\u7ea7\u4e09\u73ed\u7684\u4e00\u540d\u65b0\u751f\u5417\uff1fCan you tell me something about her? \u4f60\u80fd\u544a\u8bc9\u6211\u5173\u4e8e\u5979\u7684\u4e8b\u60c5\u5417\uff1fDo you know her mother? \u4f60\u8ba4\u8bc6\u5979\u5988\u5988\u5417\uff1f\u6839\u636eYang \u95ee\u7684\u8fd9\u4e09\u4e2a\u95ee\u9898\u53ef\u77e5\u4ed6\u60f3\u4e86\u89e3Rose \u7684\u5bb6\u5ead\u60c5\u51b5\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fD\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["3"],
+					"tagsDesc": []
+				}, {
+					"content": "<p>The dialogue (\u5bf9\u8bdd) happens (\u53d1\u751f) _____.<\/p><p><\/p>",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166011797",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "at home",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "in the morning",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "in the classroom",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "in class",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aGood morning. Betty! Betty \uff0c\u65e9\u4e0a\u597d\uff01Good morning, Yang!Yang\uff0c\u65e9\u4e0a\u597d\uff01\u6839\u636e\u5bf9\u8bdd\u5f00\u5934\u4e24\u4eba\u4e92\u95ee\u65e9\u4e0a\u597d\uff0c\u53ef\u63a8\u77e5\u7b54\u6848\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819538628",
+			"version": 9,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20304121,
+			"tagCode": "D03T5X4",
+			"createdAt": "2017-07-29T17:17:36.307+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T03:38:40.448+08:00",
+			"olUpdatedAt": "2018-08-29T03:38:40.448+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203009,
+			"new_content_subtype_id": 203009000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0],
+				[0],
+				[0],
+				[0],
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["3"],
+				["0"],
+				["2"],
+				["3"],
+				["1"]
+			],
+			"newContentTypeId": 203009,
+			"newContentSubtypeId": 203009000,
+			"majorContentType": {
+				"nid": 203009,
+				"name": "\u9605\u8bfb\u7406\u89e3"
+			},
+			"contentType": {
+				"nid": 203009000,
+				"name": "\u9605\u8bfb\u7406\u89e3"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819537076-9",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068518644",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300083042085",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300165812071",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300166036961",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031007,
+			"contentType2Id": 2030025,
+			"difficultyInt": 3,
+			"description": "\u9605\u8bfb\u4e0b\u5217\u77ed\u6587\uff0c\u6839\u636e\u77ed\u6587\u5185\u5bb9\uff0c\u4ece\u77ed\u6587\u540e\u5404\u9898\u6240\u7ed9\u7684\u9009\u9879\u4e2d\uff0c\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002",
+			"notFitMobile": 0,
+			"seconds": 450,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "<table><tbody><tr class=\"firstRow\"><td valign=\"top\" style=\"word-break: break-word; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0);\">Hello! I'm Jack, Jack Smith. I'm twelve. I have a sister. Her name is Mary Smith. She is ten now.<\/td><td valign=\"top\" style=\"word-break: break-word; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0);\">My first name is Bill, and my last name is Green. You can call me Bill or Bill Green. But you can't call me Green Bill.<\/td><\/tr><tr><td valign=\"top\" style=\"word-break: break-word; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0);\">Hi! I am Zhang Mingming. Mingming is my given name and Zhang is my family name. I am a Chinese boy, so my name is different from the name of an English boy.<\/td><td valign=\"top\" style=\"word-break: break-word; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0);\">Hello! My name is Grace Brown. I am thirteen years old. I have a sister. Her name is Helen. She is thirteen, too. We are twins.<\/td><\/tr><\/tbody><\/table>",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "Mary Smith is <span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span>.",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "the name of a boy",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "the name of a girl",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Bill's sister",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aI have a sister. Her name is Mary Smith. \u6211\u6709\u4e00\u4e2a\u59b9\u59b9\u3002\u5979\u7684\u540d\u5b57\u662fMary Smith\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}, {
+					"content": "The name \"<span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span>\" is different from the other (\u5176\u4ed6\u7684) names.",
+					"answers": [{
+						"answer": "1",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "sentence",
+					"options": [{
+						"option": "Grace Brown",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Zhang Mingming",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Jack Smith",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aI am Zhang Mingming. Mingming is my given name and Zhang is my family name. I am a Chinese boy, so my name is different from the name of an English boy. \u6211\u662fZhang Mingming\u3002Mingming\u662f\u6211\u7684\u540d\uff0c\u800cZhang\u662f\u6211\u7684\u59d3\u3002\u6211\u662f\u4e00\u4e2a\u4e2d\u56fd\u7537\u5b69\uff0c\u6240\u4ee5\u6211\u7684\u540d\u5b57\u4e0e\u82f1\u56fd\u7537\u5b69\u7684\u540d\u5b57\u4e0d\u540c\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fB\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["1"],
+					"tagsDesc": []
+				}, {
+					"content": "<span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span> is Helen's last name.",
+					"answers": [{
+						"answer": "0",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166011797",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000746434",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Brown",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Smith",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Green",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u63a8\u7406\u5224\u65ad\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aMy name is Grace Brown. I have a sister. Her name is Helen. \u6211\u7684\u540d\u5b57\u662fGrace Brown\u3002\u6211\u6709\u4e00\u4e2a\u59b9\u59b9\u3002\u5979\u7684\u540d\u5b57\u662fHelen\u3002\u7531\u6b64\u53ef\u63a8\u51faBrown\u662fHelen\u7684\u59d3\u6c0f\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fA\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["0"],
+					"tagsDesc": []
+				}, {
+					"content": "The name \"<span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span>\" is a wrong (\u9519\u8bef\u7684) one.",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166008099",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000744588",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "Bill Green",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Mary Smith",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "Smith Jack",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aI'm Jack, Jack Smith. \u6211\u662fJack\uff0cJack Smith\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}, {
+					"content": "The word \"twins\" means \"<span style=\"display: inline;\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span>\" in Chinese.",
+					"answers": [{
+						"answer": "2",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [{
+							"id": "KP_20300166009473",
+							"tagId": 0,
+							"main": 1,
+							"featureIds": []
+						}],
+						"testMethods": [{
+							"id": "TM_20300000745735",
+							"main": 1
+						}],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 1,
+					"analysis": "",
+					"optionType": "word",
+					"options": [{
+						"option": "\u540c\u73ed\u540c\u5b66",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "\u77e5\u5fc3\u670b\u53cb",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}, {
+						"option": "\u53cc\u80de\u80ce",
+						"file": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": 0,
+							"urlSingle": null,
+							"secondsSingle": null
+						}
+					}],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [0],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u6b64\u9898\u662f\u8bcd\u4e49\u731c\u6d4b\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aI am thirteen years old. I have a sister. She is thirteen, too. We are twins. \u621113\u5c81\u3002\u6211\u6709\u4e00\u4e2a\u59b9\u59b9\u3002\u5979\u4e5f13\u5c81\u3002\u6211\u4eec\u662f\u53cc\u80de\u80ce\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fC\u3002<\/p>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["2"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819537076",
+			"version": 9,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20304108,
+			"tagCode": "D02T5X3",
+			"createdAt": "2017-07-29T17:17:36.220+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T05:50:47.771+08:00",
+			"olUpdatedAt": "2018-08-29T05:50:47.771+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203009,
+			"new_content_subtype_id": 203009000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[0],
+				[0],
+				[0],
+				[0],
+				[0]
+			],
+			"subjective": false,
+			"answers": [
+				["1"],
+				["1"],
+				["0"],
+				["2"],
+				["2"]
+			],
+			"newContentTypeId": 203009,
+			"newContentSubtypeId": 203009000,
+			"majorContentType": {
+				"nid": 203009,
+				"name": "\u9605\u8bfb\u7406\u89e3"
+			},
+			"contentType": {
+				"nid": 203009000,
+				"name": "\u9605\u8bfb\u7406\u89e3"
+			},
+			"isUsed": true
+		}, {
+			"id": "Q_20308819889612-9",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068518644",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [{
+				"id": "KP_20300166021629",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300165812071",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 0,
+			"paperIds": ["P_20300119424627-35", "P_20300119424627-36"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 2031010,
+			"contentType2Id": 2030034,
+			"difficultyInt": 4,
+			"description": "\u4e66\u9762\u8868\u8fbe",
+			"notFitMobile": 0,
+			"seconds": 600,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>\u5047\u8bbe\u4f60\u662fLucy\uff0c\u8bf7\u4ee5\u201cI\u201d\u4e3a\u9898\uff0c\u5199\u4e00\u7bc750\u8bcd\u5de6\u53f3\u7684\u82f1\u8bed\u5c0f\u77ed\u6587\u3002<\/p><p><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"><\/mark>_____<\/span><\/p>",
+					"answers": [{
+						"answer": "<p style=\"text-align: center;\">I<\/p><p>    My name is Lucy. I'm 12 years old. I come from China. I'm short and thin. I have short hair. I study in No. 1 Middle School. My teachers are very friendly. I like them. I have a good family. My parents love me and I love them.<\/p>",
+						"subAnswers": [],
+						"richTexts": null,
+						"scorePercentage": 1,
+						"classification": "",
+						"knowledgePoints": null,
+						"knowledgePointsNew": [],
+						"knowledgePoints2018": [],
+						"testMethods": [],
+						"solutionMethods": [],
+						"classificationListenUrl": null
+					}],
+					"subContentTypeId": 6,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": null,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": null,
+						"endListenUrl": null,
+						"scorePercentage": null,
+						"readySeconds": null,
+						"listenFile": null,
+						"contentDesc": null,
+						"answers": null,
+						"voiceTextsNew": null,
+						"jsgf": null,
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [1],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": "<p>\u597d\u5355\u8bcd\uff1a<\/p><ol class=\" list-paddingleft-2\" style=\"list-style-type: decimal;\"><li><p>name \u540d\u5b57\uff1b<\/p><\/li><li><p>short \u77ed\u7684\uff1b<\/p><\/li><li><p>teacher \u8001\u5e08\uff1b<\/p><\/li><li><p>friendly \u53cb\u597d\u7684\uff1b<\/p><\/li><li><p>family \u5bb6\u5ead\uff1b<br><\/p><\/li><\/ol><p>\u597d\u77ed\u8bed\uff1a<\/p><ol class=\" list-paddingleft-2\" style=\"list-style-type: decimal;\"><li><p>come from \u6765\u81ea\uff1b<\/p><\/li><li><p>Middle School \u4e2d\u5b66\uff1b<\/p><\/li><li><p>be friendly \u53cb\u597d\uff0c\u53cb\u5584<\/p><\/li><\/ol><p>\u597d\u53e5\u5b50\uff1a<\/p><ol class=\" list-paddingleft-2\" style=\"list-style-type: decimal;\"><li><p>I come from China. \u6211\u6765\u81ea\u4e2d\u56fd\u3002<\/p><\/li><li><p>I have short hair. \u6211\u7559\u7740\u77ed\u53d1\u3002<\/p><\/li><li><p>My parents love me and I love them. \u6211\u7236\u6bcd\u7231\u6211\uff0c\u800c\u6211\u4e5f\u7231\u4ed6\u4eec\u3002<br><\/p><\/li><\/ol>"
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"listenSecondsSingle": 0,
+					"knowledgePointsList": [
+						[]
+					],
+					"answerList": ["<p style=\"text-align: center;\">I<\/p><p>    My name is Lucy. I'm 12 years old. I come from China. I'm short and thin. I have short hair. I study in No. 1 Middle School. My teachers are very friendly. I like them. I have a good family. My parents love me and I love them.<\/p>"],
+					"tagsDesc": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20308819889612",
+			"version": 9,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303257,
+			"tagCode": "P06",
+			"createdAt": "2017-07-29T17:39:23.387+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-29T04:25:05.879+08:00",
+			"olUpdatedAt": "2018-08-29T04:25:05.879+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "",
+				"url": "",
+				"filename": "",
+				"seconds": 0,
+				"urlSingle": null,
+				"secondsSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": null,
+			"localTypeObj": null,
+			"new_content_type_id": 203015,
+			"new_content_subtype_id": 203015000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"listenSecondsSingle": 0,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[1]
+			],
+			"subjective": true,
+			"answers": [
+				["<p style=\"text-align: center;\">I<\/p><p>    My name is Lucy. I'm 12 years old. I come from China. I'm short and thin. I have short hair. I study in No. 1 Middle School. My teachers are very friendly. I like them. I have a good family. My parents love me and I love them.<\/p>"]
+			],
+			"newContentTypeId": 203015,
+			"newContentSubtypeId": 203015000,
+			"majorContentType": {
+				"nid": 203015,
+				"name": "\u4e66\u9762\u8868\u8fbe"
+			},
+			"contentType": {
+				"nid": 203015000,
+				"name": "\u4e66\u9762\u8868\u8fbe"
+			},
+			"isUsed": true
+		}],
+		"knowledge_points_list": [{
+			"id": "KP_20300068537497",
+			"name": "\u4eba\u9645\u4ea4\u5f80 (Interpersonal communication)"
+		}, {
+			"id": "KP_20300068518644",
+			"name": "\u4e2a\u4eba\u4fe1\u606f (Personal information)"
+		}, {
+			"id": "KP_20300065982190",
+			"name": "are"
+		}, {
+			"id": "KP_20300065980354",
+			"name": "am"
+		}, {
+			"id": "KP_20300083041093",
+			"name": "\u8bb0\u53d9\u6587"
+		}, {
+			"id": "KP_20300083042085",
+			"name": "\u5e94\u7528\u6587"
+		}],
+		"content_types": [{
+			"nid": 203000009,
+			"name": "\u542c\u957f\u5bf9\u8bdd\u9009\u7b54\u6848"
+		}, {
+			"nid": 203001003,
+			"name": "\u542c\u540e\u8bb0\u5f55"
+		}, {
+			"nid": 203006000,
+			"name": "\u5355\u9879\u9009\u62e9"
+		}, {
+			"nid": 203008000,
+			"name": "\u5b8c\u5f62\u586b\u7a7a"
+		}, {
+			"nid": 203009000,
+			"name": "\u9605\u8bfb\u7406\u89e3"
+		}, {
+			"nid": 203015000,
+			"name": "\u4e66\u9762\u8868\u8fbe"
+		}],
+		"words": [],
+		"category": {
+			"bk_id": "BK_20300003532096",
+			"bkc_id": "BKC_20300232642351",
+			"name": "\u5317\u4eac\u5916\u7814\u7248\u4e03\u5e74\u7ea7\u4e0a\u518cModule 1\u6a21\u5757\u68c0\u6d4b",
+			"package_content_type": "paper_package",
+			"paper_id": "P_20300119424627-36",
+			"type": "paper"
+		}
+	}
+}
